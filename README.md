@@ -6,7 +6,7 @@
 ---
 
 
-- 🌱 Currently learning everything I can about Laravel, Docker, and fullstack development  
+- 🌱 Currently exploring various areas of software development and always eager to learn more. 
 - ✨ Always ready to explore new technologies and contribute to cool projects  
 - 📬 Reach me at: oumaima.ameziane@etu.uae.ac.ma  
 
@@ -21,7 +21,7 @@
 
 ---
 
-<h3 align="center">Languages and Tools:</h3>
+## 🛠️ Languages and Tools
 <p align="center">
   <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="github" width="40" height="40"/>
