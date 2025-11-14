@@ -38,7 +38,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg" alt="ubuntu" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="docker" width="40" height="40"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/>
-  <!-- UML -->
+ <!-- UML -->
   <img src="https://cdn.worldvectorlogo.com/logos/uml-1.svg" alt="uml" width="60"/>
   
   <!-- PlantUML -->
@@ -52,6 +52,25 @@
   
   <!-- Bison -->
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bison/bison-original.svg" alt="bison" width="60"/>
+  <!-- Flex -->
+<img src="https://img.shields.io/badge/Flex-Lexer-blue?style=for-the-badge" alt="flex" height="60"/>
+
+<!-- Bison -->
+<img src="https://img.shields.io/badge/Bison-Parser-red?style=for-the-badge" alt="bison" height="60"/>
+
+<!-- Ou avec logo GNU -->
+<img src="https://img.shields.io/badge/GNU_Flex-blue?style=for-the-badge&logo=gnu&logoColor=white" alt="flex" height="60"/>
+<img src="https://img.shields.io/badge/GNU_Bison-red?style=for-the-badge&logo=gnu&logoColor=white" alt="bison" height="60"/>
+<!-- UML - Badge simple -->
+<img src="https://img.shields.io/badge/UML-Modeling-orange?style=for-the-badge" alt="uml" height="60"/>
+
+<!-- Ou icône depuis IconScout -->
+<img src="https://iconape.com/wp-content/png_logo_vector/uml.png" alt="uml" width="60"/>
+<!-- PlantUML - Badge -->
+<img src="https://img.shields.io/badge/PlantUML-Diagrams-green?style=for-the-badge" alt="plantuml" height="60"/>
+
+<!-- Logo PlantUML depuis leur site -->
+<img src="https://plantuml.com/logo3.png" alt="plantuml" width="60"/>
 
   <img src="https://upload.wikimedia.org/wikipedia/commons/6/64/Cisco_logo.svg" 
        alt="cisco" width="70"/>
