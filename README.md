@@ -38,26 +38,16 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg" alt="ubuntu" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="docker" width="40" height="40"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/>
-<p align="center">
+ <img src="https://cdn.worldvectorlogo.com/logos/uml-1.svg" alt="uml" width="60"/>
+ <img src="https://img.shields.io/badge/PlantUML-Diagrams-green?style=for-the-badge" alt="plantuml"/>
 
-  <!-- Bison -->
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bison/bison-original.svg" 
-       alt="bison" width="60"/>
+ <img src="https://www.gnu.org/graphics/gnu-head-sm.png" alt="flex-gnu" width="60"/>
 
-  <!-- Flex -->
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flex/flex-original.svg" 
-       alt="flex" width="60"/>
+<img src="https://cdn.worldvectorlogo.com/logos/uml-1.svg" alt="uml" width="60"/>
 
-  <!-- UML -->
-  <img src="https://raw.githubusercontent.com/gustavosaez/uml-icons/master/dist/uml.png" 
-       alt="uml" width="60"/>
 
-  <!-- Cisco -->
-  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/cisco.svg" 
+  <img src="https://upload.wikimedia.org/wikipedia/commons/6/64/Cisco_logo.svg" 
        alt="cisco" width="70"/>
-
-</p>
-
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" alt="php" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" alt="laravel" width="40" height="40"/>
