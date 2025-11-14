@@ -43,8 +43,7 @@
   <!-- SQL Server -->
   <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="sqlserver" width="60"/>
   
-  <!-- Flex -->
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flex/flex-original.svg" alt="flex" width="60"/>
+ 
   
 
   <!-- Flex -->
