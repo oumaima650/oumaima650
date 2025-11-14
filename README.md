@@ -38,19 +38,26 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg" alt="ubuntu" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="docker" width="40" height="40"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/>
- <img src="https://www.gnu.org/software/bison/images/bison-logo.png" 
-       alt="bison" width="50"/>
+<p align="center">
 
-  <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Flex_lexer_logo.png" 
-       alt="flex" width="50"/>
+  <!-- Bison -->
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bison/bison-original.svg" 
+       alt="bison" width="60"/>
 
+  <!-- Flex -->
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flex/flex-original.svg" 
+       alt="flex" width="60"/>
 
-  <img src="https://upload.wikimedia.org/wikipedia/commons/0/0e/UML_logo.svg" 
-       alt="uml" width="50"/>
+  <!-- UML -->
+  <img src="https://raw.githubusercontent.com/gustavosaez/uml-icons/master/dist/uml.png" 
+       alt="uml" width="60"/>
 
-  
-  <img src="https://upload.wikimedia.org/wikipedia/commons/6/64/Cisco_logo.svg" 
+  <!-- Cisco -->
+  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/cisco.svg" 
        alt="cisco" width="70"/>
+
+</p>
+
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" alt="php" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" alt="laravel" width="40" height="40"/>
