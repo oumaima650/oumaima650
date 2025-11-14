@@ -38,11 +38,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg" alt="ubuntu" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="docker" width="40" height="40"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/>
- <!-- UML -->
-  <img src="https://cdn.worldvectorlogo.com/logos/uml-1.svg" alt="uml" width="60"/>
-  
-  <!-- PlantUML -->
-  <img src="https://avatars.githubusercontent.com/u/10346638?s=200&v=4" alt="plantuml" width="60"/>
+
   
   <!-- SQL Server -->
   <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="sqlserver" width="60"/>
@@ -50,25 +46,11 @@
   <!-- Flex -->
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flex/flex-original.svg" alt="flex" width="60"/>
   
-  <!-- Bison -->
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bison/bison-original.svg" alt="bison" width="60"/>
+
   <!-- Flex -->
-<img src="https://img.shields.io/badge/Flex-Lexer-blue?style=for-the-badge" alt="flex" height="60"/>
-
-<!-- Bison -->
-<img src="https://img.shields.io/badge/Bison-Parser-red?style=for-the-badge" alt="bison" height="60"/>
-
-<!-- Ou avec logo GNU -->
-<img src="https://img.shields.io/badge/GNU_Flex-blue?style=for-the-badge&logo=gnu&logoColor=white" alt="flex" height="60"/>
-<img src="https://img.shields.io/badge/GNU_Bison-red?style=for-the-badge&logo=gnu&logoColor=white" alt="bison" height="60"/>
-<!-- UML - Badge simple -->
-<img src="https://img.shields.io/badge/UML-Modeling-orange?style=for-the-badge" alt="uml" height="60"/>
-
+<img src="https://samskalicky.wordpress.com/wp-content/uploads/2014/01/heckert_gnu_white.png" alt="flex" height="60"/>
 <!-- Ou icône depuis IconScout -->
-<img src="https://iconape.com/wp-content/png_logo_vector/uml.png" alt="uml" width="60"/>
-<!-- PlantUML - Badge -->
-<img src="https://img.shields.io/badge/PlantUML-Diagrams-green?style=for-the-badge" alt="plantuml" height="60"/>
-
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/UML_logo.svg/640px-UML_logo.svg.png" alt="uml" width="60"/>
 <!-- Logo PlantUML depuis leur site -->
 <img src="https://plantuml.com/logo3.png" alt="plantuml" width="60"/>
 
