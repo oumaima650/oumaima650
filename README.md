@@ -38,13 +38,20 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg" alt="ubuntu" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="docker" width="40" height="40"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/>
- <img src="https://cdn.worldvectorlogo.com/logos/uml-1.svg" alt="uml" width="60"/>
- <img src="https://img.shields.io/badge/PlantUML-Diagrams-green?style=for-the-badge" alt="plantuml"/>
-
- <img src="https://www.gnu.org/graphics/gnu-head-sm.png" alt="flex-gnu" width="60"/>
-
-<img src="https://cdn.worldvectorlogo.com/logos/uml-1.svg" alt="uml" width="60"/>
-
+  <!-- UML -->
+  <img src="https://cdn.worldvectorlogo.com/logos/uml-1.svg" alt="uml" width="60"/>
+  
+  <!-- PlantUML -->
+  <img src="https://avatars.githubusercontent.com/u/10346638?s=200&v=4" alt="plantuml" width="60"/>
+  
+  <!-- SQL Server -->
+  <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="sqlserver" width="60"/>
+  
+  <!-- Flex -->
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flex/flex-original.svg" alt="flex" width="60"/>
+  
+  <!-- Bison -->
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bison/bison-original.svg" alt="bison" width="60"/>
 
   <img src="https://upload.wikimedia.org/wikipedia/commons/6/64/Cisco_logo.svg" 
        alt="cisco" width="70"/>
