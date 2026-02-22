@@ -11,7 +11,7 @@
 
 <br/>
 
-# ✨ Hi there, I'm OUMAIMA ✨
+#  Hi there, I'm OUMAIMA 
 *Computer Science Engineering Student @ ENSA Tétouan*
 
 <br/>
@@ -32,14 +32,14 @@
 
 ---
 
-## 🌸 About Me
+##  About Me
 - 🌱 Currently exploring various areas of software development and always eager to learn more.
 - ✨ Always ready to explore new technologies and contribute to cool projects.
 - 📬 Reach me at: [oumaima.ameziane@etu.uae.ac.ma](mailto:oumaima.ameziane@etu.uae.ac.ma)
 
 ---
 
-## 🛠️ Languages and Tools
+##  Languages and Tools
 <p align="center">
   <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="github" width="40" height="40"/>
@@ -72,7 +72,7 @@
 <div align="center">
 
 
-*☕ Let's build something amazing together!*
+<p>*☕ Let's build something amazing together!*</p>
 
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=C8A882&height=100&section=footer&animation=fadeIn" width="100%"/>
