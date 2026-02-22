@@ -58,7 +58,7 @@
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/>
   <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="sqlserver" width="60"/>
 <img src="https://samskalicky.wordpress.com/wp-content/uploads/2014/01/heckert_gnu_white.png" alt="flex" height="60"/>
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/UML_logo.svg/640px-UML_logo.svg.png" alt="uml" width="60"/>
+
 <img src="https://plantuml.com/logo3.png" alt="plantuml" width="60"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/6/64/Cisco_logo.svg" alt="cisco" width="70"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/>
@@ -68,22 +68,16 @@
   
 </p>
 
----
-
----
-
-
-
----
 
 <div align="center">
 
 
-<br/>
+*☕ Let's build something amazing together!*
+
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=C8A882&height=100&section=footer&animation=fadeIn" width="100%"/>
 
-*☕ Let's build something amazing together!*
+
 
 </div>
 
