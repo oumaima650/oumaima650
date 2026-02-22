@@ -11,7 +11,7 @@
   <br/>
   <br/>
   <br/>
-  <font size="6"><b>✨ Hi there, I'm OUMAIMA ✨</b></font>
+  <font size="10"><b> Hi there, I'm OUMAIMA </b></font>
   <br/>
   <p><i>Computer Science Engineering Student @ ENSA Tétouan</i></p>
   <a href="https://git.io/typing-svg">
