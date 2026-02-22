@@ -1,120 +1,115 @@
 <div align="center">
 
-<!-- Animated Header -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=C8A882,8B6F47,D4B896&height=200&section=header&text=Oumaima%20Ameziane&fontSize=45&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Computer%20Science%20Engineering%20Student&descAlignY=58&descSize=18" width="100%"/>
-
-<!-- Avatar -->
-<img src="oumaima_avatar.png" width="180px" style="margin-top:-40px"/>
-
-<!-- Typing animation -->
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Pacifico&size=22&pause=1000&color=8B6F47&center=true&vCenter=true&width=600&lines=Hi+there!+I'm+Oumaima+%F0%9F%91%8B;ENSA+Tétouan+CS+Engineering+Student+%F0%9F%8E%93;Always+learning%2C+always+building+%E2%9C%A8;Let%27s+build+something+amazing!+%F0%9F%9A%80" alt="Typing SVG" />
-</a>
+<!-- HEADER: DYNAMIC & BOLD -->
+<img src="https://capsule-render.vercel.app/api?type=rect&color=3d2b1f&height=250&section=header&text=SYSTEM+OVERRIDE&fontSize=70&fontColor=C8A882&animation=twinkling&fontAlignY=40" width="100%"/>
 
 <br/>
 
-<!-- Badges -->
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/oumaima-ameziane-037473331/)
-[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/oumaima650)
-[![Email](https://img.shields.io/badge/Email-C8A882?style=for-the-badge&logo=gmail&logoColor=white)](mailto:oumaima.ameziane@etu.uae.ac.ma)
+<!-- HERO SECTION: AVATAR + TYPING -->
+<table>
+  <tr>
+    <td align="center" width="300">
+      <img src="https://copilot.microsoft.com/th/id/BCO.e894d99e-f81f-4ea4-9a98-99794dd421f1.png" width="300" alt="Oumaima Digital Architect"/>
+    </td>
+    <td align="left" width="600">
+      <h1><img src="https://raw.githubusercontent.com/MartinVerreynne/MartinVerreynne/master/Handshake.gif" width="35" /> INITIALIZING: OUMAIMA</h1>
+      <a href="https://git.io/typing-svg">
+        <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=24&pause=1000&color=C8A882&width=500&lines=ARCHITECTING+THE+FUTURE;BREAKING+THE+SIMULATION;CODING+BEYOND+LIMITS;ENSA+T%C3%89TOUAN+CS+ENGINEER" alt="Typing SVG" />
+      </a>
+      <p align="left">
+        <b>I don't just build software. I design ecosystems.</b><br/>
+        A Computer Science Engineering student currently rewriting the rules of modern development at ENSA Tétouan. 
+      </p>
+      <br/>
+      <a href="https://www.linkedin.com/in/oumaima-ameziane-037473331/"><img src="https://img.shields.io/badge/LINK+IN-C8A882?style=for-the-badge&logo=linkedin&logoColor=3d2b1f" /></a>
+      <a href="mailto:oumaima.ameziane@etu.uae.ac.ma"><img src="https://img.shields.io/badge/SIGNAL-3d2b1f?style=for-the-badge&logo=gmail&logoColor=C8A882" /></a>
+    </td>
+  </tr>
+</table>
 
 </div>
 
 ---
 
-<div align="center">
+## ⚡ SYSTEM DIAGNOSTICS
 
-## 🌸 About Me
+<div align="left">
 
-</div>
-
-```javascript
-const oumaima = {
-  🎓 school     : "ENSA Tétouan — Computer Science Engineering",
-  📍 location   : "Tétouan, Morocco 🇲🇦",
-  💡 exploring  : ["Software Development", "New Technologies", "Open Source"],
-  🌱 currently  : "Always learning, always growing",
-  ✨ motto      : "Let's build something amazing together!",
-  📬 contact    : "oumaima.ameziane@etu.uae.ac.ma"
-};
+```yaml
+identity:
+  name: Oumaima Ameziane
+  role: Computational Engineer
+  base_of_ops: Tétouan, Morocco 🇲🇦
+  specialization: [Full-Stack Architecture, System Design, UX Innovation]
+  status: "EVOLVING_DAILY"
+  motto: "If it's predictable, it's obsolete."
 ```
 
----
-
-<div align="center">
-
-## 🛠️ Tech Stack
-
-### 💻 Languages
-![C](https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
-![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![PHP](https://img.shields.io/badge/PHP-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
-
-### 🌐 Web & Frameworks
-![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
-![Laravel](https://img.shields.io/badge/Laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
-
-### 🗄️ Databases
-![MySQL](https://img.shields.io/badge/MySQL-%2300000f.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
-![MicrosoftSQLServer](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
-
-### ⚙️ Tools & DevOps
-![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
-![Jira](https://img.shields.io/badge/Jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
-
-### 🔬 Other
-![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=mathworks&logoColor=white)
-![Cisco](https://img.shields.io/badge/Cisco-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)
-![UML](https://img.shields.io/badge/UML-FABD14?style=for-the-badge&logo=uml&logoColor=black)
-
 </div>
 
 ---
 
+## 🛠️ THE ARSENAL
+
+### 🏗️ Structural Core (Languages)
+<p align="left">
+  <img src="https://img.shields.io/badge/C-%233d2b1f.svg?style=for-the-badge&logo=c&logoColor=C8A882" />
+  <img src="https://img.shields.io/badge/Java-%233d2b1f.svg?style=for-the-badge&logo=openjdk&logoColor=D4B896" />
+  <img src="https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" />
+  <img src="https://img.shields.io/badge/C%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white" />
+  <img src="https://img.shields.io/badge/PHP-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white" />
+</p>
+
+### 🌐 Digital Interfaces (Web & Frameworks)
+<p align="left">
+  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" />
+</p>
+
+### 🛰️ Environment & Ops
+<p align="left">
+  <img src="https://img.shields.io/badge/Docker-%233d2b1f.svg?style=for-the-badge&logo=docker&logoColor=0db7ed" />
+  <img src="https://img.shields.io/badge/Git-%233d2b1f.svg?style=for-the-badge&logo=git&logoColor=F05033" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+  <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white" />
+</p>
+
+---
+
+## 📈 NETWORK ACTIVITY
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=oumaima650&show_icons=true&theme=tokyonight&bg_color=3d2b1f&title_color=C8A882&icon_color=D4B896&text_color=FFFFFF&border_color=C8A882&border_radius=15" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=oumaima650&layout=compact&theme=tokyonight&bg_color=3d2b1f&title_color=C8A882&text_color=FFFFFF&border_color=C8A882&border_radius=15" height="180"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=oumaima650&theme=tokyonight&background=3d2b1f&ring=C8A882&fire=D4B896&currStreakLabel=C8A882&border=C8A882&track=3d2b1f&border_radius=15" width="100%"/>
+</p>
+
+---
+
+## 🏆 SYSTEM ACHIEVEMENTS
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=oumaima650&theme=juicyfresh&no-frame=true&no-bg=true&margin-w=4&column=6"/>
+</p>
+
+---
+
 <div align="center">
 
-## 📊 GitHub Stats
+<h3> 👁️ DATA FEED </h3>
 
-<img src="https://github-readme-stats.vercel.app/api?username=oumaima650&show_icons=true&theme=warm&bg_color=FFF8F0&title_color=8B6F47&icon_color=C8A882&text_color=5C4033&border_color=C8A882&border_radius=15" height="165"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=oumaima650&layout=compact&theme=warm&bg_color=FFF8F0&title_color=8B6F47&text_color=5C4033&border_color=C8A882&border_radius=15" height="165"/>
+<img src="https://komarev.com/ghpvc/?username=oumaima650&color=C8A882&style=flat-square&label=ACCESS+COUNT" height="25"/>
 
 <br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com?user=oumaima650&theme=warm&background=FFF8F0&ring=C8A882&fire=8B6F47&currStreakLabel=8B6F47&border=C8A882&border_radius=15"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=3d2b1f&height=100&section=footer&text=END+TRANSMISSION&fontSize=25&fontColor=C8A882&animation=twinkling" width="100%"/>
+
+*The future is code. Let's write it.*
 
 </div>
 
----
-
-<div align="center">
-
-## 🏆 GitHub Trophies
-
-<img src="https://github-profile-trophy.vercel.app/?username=oumaima650&theme=flat&no-frame=true&column=6&margin-w=10&title_color=8B6F47"/>
-
-</div>
-
----
-
-<div align="center">
-
-### 🌟 Visitor Count
-
-![Visitor Count](https://profile-counter.glitch.me/oumaima650/count.svg)
-
-<br/>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=C8A882,8B6F47,D4B896&height=120&section=footer&animation=fadeIn" width="100%"/>
-
-*✨ Let's build something amazing together!*
-
-</div>
