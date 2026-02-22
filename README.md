@@ -1,9 +1,7 @@
 <div align="center">
 
 <!-- SOFT AESTHETIC HEADER -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=C8A882&height=220&section=header&text=Oumaima%20Ameziane&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35" width="100%"/>
 
-<br/>
 
 <!-- HERO SECTION -->
 <table border="0">
