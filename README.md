@@ -1,31 +1,30 @@
 <div align="center">
 
-<!-- PREMIUM VIBRANT HEADER -->
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=15,10,32,14&height=250&section=header&text=Oumaima%20Ameziane&fontSize=70&fontColor=fff&animation=twinkling&fontAlignY=40" width="100%"/>
+<!-- SOFT AESTHETIC HEADER -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=C8A882&height=220&section=header&text=Oumaima%20Ameziane&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35" width="100%"/>
 
 <br/>
 
 <!-- HERO SECTION -->
-<table border="0">
-  <tr>
-    <td align="center" width="350">
-      <img src="https://copilot.microsoft.com/th/id/BCO.d14e40b3-15e0-4366-b4c9-5e9f44303b0a.png" width="300" style="border-radius: 50%;" alt="Oumaima Digital Architect"/>
-    </td>
-    <td align="left" width="550">
-      <h1><img src="https://raw.githubusercontent.com/MartinVerreynne/MartinVerreynne/master/Handshake.gif" width="35" /> Hello, I'm Oumaima!</h1>
-      <a href="https://git.io/typing-svg">
-        <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=F7DF1E&width=500&lines=DIGITAL+INNOVATOR;FULL+STACK+DEVELOPER;CREATIVE+PROBLEM+SOLVER;ENSA+T%C3%89TOUAN+ENGINEER" alt="Typing SVG" />
-      </a>
-      <p>
-        <b>Architecting code with passion and precision.</b><br/>
-        Computer Science Engineering student at ENSA Tétouan. Always exploring, always building.
-      </p>
-      <br/>
-      <a href="https://www.linkedin.com/in/oumaima-ameziane-037473331/"><img src="https://img.shields.io/badge/LINKEDIN-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-      <a href="mailto:oumaima.ameziane@etu.uae.ac.ma"><img src="https://img.shields.io/badge/EMAIL-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-    </td>
-  </tr>
-</table>
+<img src="https://copilot.microsoft.com/th/id/BCO.d14e40b3-15e0-4366-b4c9-5e9f44303b0a.png" width="250" alt="Welcome cartoon Oumaima" />
+
+
+<br/>
+
+# ✨ Hi there, I'm OUMAIMA ✨
+*Computer Science Engineering Student @ ENSA Tétouan*
+
+<br/>
+
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Pacifico&size=24&pause=1000&color=8B6F47&center=true&vCenter=true&width=600&lines=Building+with+passion+%F0%9F%8C%B8;Exploring+new+horizons+%E2%9C%A8;Always+learning%2C+always+growing+%F0%9F%8C%B1;Let's+build+something+amazing!+%F0%9F%9A%80" alt="Typing SVG" />
+</a>
+
+<br/>
+
+[![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/oumaima-ameziane-037473331/)
+[![GitHub](https://img.shields.io/badge/Explore_my_GitHub-black?style=for-the-badge&logo=github&logoColor=white)](https://github.com/oumaima650)
+[![Email](https://img.shields.io/badge/Email_Me-C8A882?style=for-the-badge&logo=gmail&logoColor=white)](mailto:oumaima.ameziane@etu.uae.ac.ma)
 
 </div>
 
@@ -33,86 +32,76 @@
 
 ---
 
-## 🚀 SYSTEM PROFILE
-
-<div align="left">
-
-```json
-{
-  "status": "Evolving daily ✨",
-  "location": "Tétouan, Morocco 🇲🇦",
-  "goal": "Building scalable, high-impact digital solutions",
-  "current_focus": "Software Engineering excellence"
-}
-```
-
-</div>
+## 🌸 About Me
+- 🌱 Currently exploring various areas of software development and always eager to learn more.
+- ✨ Always ready to explore new technologies and contribute to cool projects.
+- 📬 Reach me at: [oumaima.ameziane@etu.uae.ac.ma](mailto:oumaima.ameziane@etu.uae.ac.ma)
 
 ---
 
-## 🛠️ THE TECHNICAL MATRIX
+## 🛠️ The Creative Toolbox
 
-<table width="100%">
-  <tr>
-    <td width="50%" valign="top">
-      <h3>💻 Structural & Logic</h3>
-      <img src="https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" />
-      <img src="https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" />
-      <img src="https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black" />
-      <img src="https://img.shields.io/badge/C%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white" />
-      <img src="https://img.shields.io/badge/PHP-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white" />
-    </td>
-    <td width="50%" valign="top">
-      <h3>🌐 Interface & Frameworks</h3>
-      <img src="https://img.shields.io/badge/Laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white" />
-      <img src="https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />
-      <img src="https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" />
-      <img src="https://img.shields.io/badge/Bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white" />
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>🛰️ Environment & Ops</h3>
-      <img src="https://img.shields.io/badge/Docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" />
-      <img src="https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" />
-      <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
-      <img src="https://img.shields.io/badge/Jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white" />
-    </td>
-    <td width="50%" valign="top">
-      <h3>🔬 Database & Research</h3>
-      <img src="https://img.shields.io/badge/MySQL-%2300000f.svg?style=for-the-badge&logo=mysql&logoColor=white" />
-      <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white" />
-      <img src="https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=mathworks&logoColor=white" />
-      <img src="https://img.shields.io/badge/Cisco-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white" />
-    </td>
-  </tr>
-</table>
+### 🏗️ Structural & Logic
+<p align="left">
+  <img src="https://img.shields.io/badge/C-%238B6F47?style=flat&logo=c&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-%23D4B896?style=flat&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-%23C8A882?style=flat&logo=javascript&logoColor=white" />
+  <img src="https://img.shields.io/badge/C%23-%238B6F47?style=flat&logo=csharp&logoColor=white" />
+  <img src="https://img.shields.io/badge/PHP-%23D4B896?style=flat&logo=php&logoColor=white" />
+</p>
+
+### 🌐 Digital Interfaces
+<p align="left">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white" />
+  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat&logo=laravel&logoColor=white" />
+</p>
+
+### 🛰️ Environment & Ops
+<p align="left">
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05033?style=flat&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black" />
+  <img src="https://img.shields.io/badge/Ubuntu-E95420?style=flat&logo=ubuntu&logoColor=white" />
+  <img src="https://img.shields.io/badge/Jira-0052CC?style=flat&logo=jira&logoColor=white" />
+</p>
+
+### 🔬 Specialization
+<p align="left">
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Oracle-F80000?style=flat&logo=oracle&logoColor=white" />
+  <img src="https://img.shields.io/badge/MATLAB-0ED8B00?style=flat&logo=mathworks&logoColor=white" />
+  <img src="https://img.shields.io/badge/Cisco-1BA0D7?style=flat&logo=cisco&logoColor=white" />
+  <img src="https://img.shields.io/badge/UML-000000?style=flat&logo=uml&logoColor=white" />
+</p>
 
 ---
 
-## 📈 PERFORMANCE LOG
+## 📈 Soft Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=oumaima650&show_icons=true&theme=rose_pine&hide_border=true" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=oumaima650&layout=compact&theme=rose_pine&hide_border=true" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=oumaima650&show_icons=true&theme=warm&bg_color=FFF8F0&title_color=8B6F47&icon_color=C8A882&text_color=5C4033&border_color=C8A882&border_radius=15" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=oumaima650&layout=compact&theme=warm&bg_color=FFF8F0&title_color=8B6F47&text_color=5C4033&border_color=C8A882&border_radius=15" height="150" />
 </div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=oumaima650&theme=warm&background=FFF8F0&ring=C8A882&fire=8B6F47&currStreakLabel=8B6F47&border=C8A882&border_radius=15" width="100%"/>
+</div>
+
+---
+
+<div align="center">
+
+<h3> ☕ Current Vibe </h3>
+<p>Architecting code by day, learning new dimensions by night.</p>
+
+<img src="https://komarev.com/ghpvc/?username=oumaima650&color=C8A882&style=flat-square&label=VOYAGERS+VISITED" height="25"/>
 
 <br/>
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/oumaima650/oumaima650/output/github-contribution-grid-snake.svg" alt="Snake animation" width="100%" />
-</div>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=C8A882&height=100&section=footer&animation=fadeIn" width="100%"/>
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=oumaima650&theme=rose_pine&hide_border=true" width="100%"/>
-</div>
-
----
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=15,10,32,14&height=100&section=footer&text=LET'S+BUILD+SOMETHING+AMAZING&fontSize=25&fontColor=fff&animation=twinkling" width="100%"/>
-
-*The future belongs to the curious.*
+*✨ Let's build something amazing together!*
 
 </div>
