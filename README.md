@@ -6,19 +6,23 @@
 <br/>
 
 <!-- HERO SECTION -->
-<div align="center">
-  <img src="https://copilot.microsoft.com/th/id/BCO.d14e40b3-15e0-4366-b4c9-5e9f44303b0a.png" align="left" width="250" alt="Welcome cartoon Oumaima" />
-  <p align="left">
-    <br/>
-    <font size="6"><b>✨ Hi there, I'm OUMAIMA ✨</b></font><br/>
-    <i>Computer Science Engineering Student @ ENSA Tétouan</i>
-    <br/><br/>
-    <a href="https://git.io/typing-svg">
-      <img src="https://readme-typing-svg.demolab.com?font=Pacifico&size=24&pause=1000&color=8B6F47&center=false&vCenter=true&width=600&lines=Building+with+passion+%F0%9F%8C%B8;Exploring+new+tools+%E2%9C%A8;Always+learning%2C+always+growing+%F0%9F%8C%B1;Let's+build+something+amazing!+%F0%9F%9A%80" alt="Typing SVG" />
-    </a>
-  </p>
-</div>
-<br clear="left"/>
+<table border="0" cellpadding="0" cellspacing="0">
+  <tr>
+    <td align="center" width="260" valign="top">
+      <img src="https://copilot.microsoft.com/th/id/BCO.d14e40b3-15e0-4366-b4c9-5e9f44303b0a.png" width="250" alt="Welcome cartoon Oumaima" />
+    </td>
+    <td align="left" width="450" valign="top">
+      <br/>
+      <font size="6"><b>✨ Hi there, I'm OUMAIMA ✨</b></font>
+      <br/>
+      <p><i>Computer Science Engineering Student @ ENSA Tétouan</i></p>
+      <a href="https://git.io/typing-svg">
+        <img src="https://readme-typing-svg.demolab.com?font=Pacifico&size=24&pause=1000&color=8B6F47&center=false&vCenter=true&width=450&lines=Building+with+passion+%F0%9F%8C%B8;Exploring+new+tools+%E2%9C%A8;Always+learning%2C+always+growing+%F0%9F%8C%B1;Let's+build+something+amazing!+%F0%9F%9A%80" alt="Typing SVG" />
+      </a>
+    </td>
+  </tr>
+</table>
+
 
 
 
