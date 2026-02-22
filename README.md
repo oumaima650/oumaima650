@@ -72,8 +72,7 @@
 <div align="center">
 
 
-<p>*☕ Let's build something amazing together!*</p>
-
+*☕ Let's build something amazing together!*
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=C8A882&height=100&section=footer&animation=fadeIn" width="100%"/>
 
