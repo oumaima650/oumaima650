@@ -78,15 +78,21 @@
 
 ---
 
-## 📈 Soft Stats
+---
+
+## 📈 Stats & Activity
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=oumaima650&show_icons=true&theme=warm&bg_color=FFF8F0&title_color=8B6F47&icon_color=C8A882&text_color=5C4033&border_color=C8A882&border_radius=15" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=oumaima650&layout=compact&theme=warm&bg_color=FFF8F0&title_color=8B6F47&text_color=5C4033&border_color=C8A882&border_radius=15" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api?username=oumaima650&show_icons=true&theme=react&border_radius=10" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=oumaima650&layout=compact&theme=react&border_radius=10" height="150" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=oumaima650&theme=warm&background=FFF8F0&ring=C8A882&fire=8B6F47&currStreakLabel=8B6F47&border=C8A882&border_radius=15" width="100%"/>
+  <img src="https://raw.githubusercontent.com/oumaima650/oumaima650/output/github-contribution-grid-snake.svg" alt="Snake animation" width="100%" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=oumaima650&theme=react&border_radius=10" width="100%"/>
 </div>
 
 ---
@@ -96,8 +102,6 @@
 <h3> ☕ Current Vibe </h3>
 <p>Architecting code by day, learning new dimensions by night.</p>
 
-<img src="https://komarev.com/ghpvc/?username=oumaima650&color=C8A882&style=flat-square&label=VOYAGERS+VISITED" height="25"/>
-
 <br/>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=C8A882&height=100&section=footer&animation=fadeIn" width="100%"/>
@@ -105,3 +109,4 @@
 *✨ Let's build something amazing together!*
 
 </div>
+
