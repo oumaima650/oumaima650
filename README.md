@@ -1,56 +1,120 @@
-# Hi, I'm OUMAIMA Ameziane 👋
+<div align="center">
 
-🎓 Computer Science Engineering Student at ENSA Tétouan   
+<!-- Animated Header -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=C8A882,8B6F47,D4B896&height=200&section=header&text=Oumaima%20Ameziane&fontSize=45&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Computer%20Science%20Engineering%20Student&descAlignY=58&descSize=18" width="100%"/>
 
+<!-- Avatar -->
+<img src="oumaima_avatar.png" width="180px" style="margin-top:-40px"/>
 
----
+<!-- Typing animation -->
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Pacifico&size=22&pause=1000&color=8B6F47&center=true&vCenter=true&width=600&lines=Hi+there!+I'm+Oumaima+%F0%9F%91%8B;ENSA+Tétouan+CS+Engineering+Student+%F0%9F%8E%93;Always+learning%2C+always+building+%E2%9C%A8;Let%27s+build+something+amazing!+%F0%9F%9A%80" alt="Typing SVG" />
+</a>
 
+<br/>
 
-- 🌱 Currently exploring various areas of software development and always eager to learn more. 
-- ✨ Always ready to explore new technologies and contribute to cool projects  
-- 📬 Reach me at: oumaima.ameziane@etu.uae.ac.ma  
+<!-- Badges -->
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/oumaima-ameziane-037473331/)
+[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/oumaima650)
+[![Email](https://img.shields.io/badge/Email-C8A882?style=for-the-badge&logo=gmail&logoColor=white)](mailto:oumaima.ameziane@etu.uae.ac.ma)
 
-  
----
-
-## 🔗 Connect with me
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://www.linkedin.com/in/oumaima-ameziane-037473331/)  [![GitHub](https://img.shields.io/badge/GitHub-black?logo=github)](https://github.com/oumaima650)  
-
-
-
----
-
-## 🛠️ Languages and Tools
-<p align="center">
-  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="github" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="c" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="html5" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="js" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="css3" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" alt="bootstrap" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="mysql" width="40" height="40"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/9/95/PhpMyAdmin_logo.png" alt="phpmyadmin" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" alt="matlab" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="java" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg" alt="ubuntu" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="docker" width="40" height="40"/>
- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/>
-  <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="sqlserver" width="60"/>
-<img src="https://samskalicky.wordpress.com/wp-content/uploads/2014/01/heckert_gnu_white.png" alt="flex" height="60"/>
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/UML_logo.svg/640px-UML_logo.svg.png" alt="uml" width="60"/>
-<img src="https://plantuml.com/logo3.png" alt="plantuml" width="60"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/6/64/Cisco_logo.svg" alt="cisco" width="70"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" alt="php" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" alt="laravel" width="40" height="40"/>
-    <img src="https://cdn-icons-png.flaticon.com/512/5968/5968875.png" alt="jira" width="40" height="40"/>
-  
-</p>
-
+</div>
 
 ---
 
-✨ *Let's build something amazing together!*
+<div align="center">
+
+## 🌸 About Me
+
+</div>
+
+```javascript
+const oumaima = {
+  🎓 school     : "ENSA Tétouan — Computer Science Engineering",
+  📍 location   : "Tétouan, Morocco 🇲🇦",
+  💡 exploring  : ["Software Development", "New Technologies", "Open Source"],
+  🌱 currently  : "Always learning, always growing",
+  ✨ motto      : "Let's build something amazing together!",
+  📬 contact    : "oumaima.ameziane@etu.uae.ac.ma"
+};
+```
+
+---
+
+<div align="center">
+
+## 🛠️ Tech Stack
+
+### 💻 Languages
+![C](https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
+![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![PHP](https://img.shields.io/badge/PHP-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
+
+### 🌐 Web & Frameworks
+![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
+
+### 🗄️ Databases
+![MySQL](https://img.shields.io/badge/MySQL-%2300000f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
+![MicrosoftSQLServer](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
+
+### ⚙️ Tools & DevOps
+![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
+![Jira](https://img.shields.io/badge/Jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
+
+### 🔬 Other
+![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=mathworks&logoColor=white)
+![Cisco](https://img.shields.io/badge/Cisco-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)
+![UML](https://img.shields.io/badge/UML-FABD14?style=for-the-badge&logo=uml&logoColor=black)
+
+</div>
+
+---
+
+<div align="center">
+
+## 📊 GitHub Stats
+
+<img src="https://github-readme-stats.vercel.app/api?username=oumaima650&show_icons=true&theme=warm&bg_color=FFF8F0&title_color=8B6F47&icon_color=C8A882&text_color=5C4033&border_color=C8A882&border_radius=15" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=oumaima650&layout=compact&theme=warm&bg_color=FFF8F0&title_color=8B6F47&text_color=5C4033&border_color=C8A882&border_radius=15" height="165"/>
+
+<br/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com?user=oumaima650&theme=warm&background=FFF8F0&ring=C8A882&fire=8B6F47&currStreakLabel=8B6F47&border=C8A882&border_radius=15"/>
+
+</div>
+
+---
+
+<div align="center">
+
+## 🏆 GitHub Trophies
+
+<img src="https://github-profile-trophy.vercel.app/?username=oumaima650&theme=flat&no-frame=true&column=6&margin-w=10&title_color=8B6F47"/>
+
+</div>
+
+---
+
+<div align="center">
+
+### 🌟 Visitor Count
+
+![Visitor Count](https://profile-counter.glitch.me/oumaima650/count.svg)
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=C8A882,8B6F47,D4B896&height=120&section=footer&animation=fadeIn" width="100%"/>
+
+*✨ Let's build something amazing together!*
+
+</div>
