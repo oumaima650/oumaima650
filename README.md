@@ -1,23 +1,25 @@
 <div align="center">
 
 <!-- SOFT AESTHETIC HEADER -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=C8A882&height=220&section=header&text=Oumaima%20Ameziane&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35" width="100%"/>
 
+<br/>
 
 <!-- HERO SECTION -->
-<table border="0">
-  <tr>
-    <td align="center" width="250">
-      <img src="https://copilot.microsoft.com/th/id/BCO.d14e40b3-15e0-4366-b4c9-5e9f44303b0a.png" width="250" alt="Welcome cartoon Oumaima" />
-    </td>
-    <td align="left" width="600">
-      <h1>✨ Hi there, I'm OUMAIMA ✨</h1>
-      <p><i>Computer Science Engineering Student @ ENSA Tétouan</i></p>
-      <a href="https://git.io/typing-svg">
-        <img src="https://readme-typing-svg.demolab.com?font=Pacifico&size=24&pause=1000&color=8B6F47&center=false&vCenter=true&width=600&lines=Building+with+passion+%F0%9F%8C%B8;Exploring+new+horizons+%E2%9C%A8;Always+learning%2C+always+growing+%F0%9F%8C%B1;Let's+build+something+amazing!+%F0%9F%9A%80" alt="Typing SVG" />
-      </a>
-    </td>
-  </tr>
-</table>
+<div align="center">
+  <img src="https://copilot.microsoft.com/th/id/BCO.d14e40b3-15e0-4366-b4c9-5e9f44303b0a.png" align="left" width="250" alt="Welcome cartoon Oumaima" />
+  <br/>
+  <br/>
+  <br/>
+  <font size="6"><b>✨ Hi there, I'm OUMAIMA ✨</b></font>
+  <br/>
+  <p><i>Computer Science Engineering Student @ ENSA Tétouan</i></p>
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Pacifico&size=24&pause=1000&color=8B6F47&center=false&vCenter=true&width=600&lines=Building+with+passion+%F0%9F%8C%B8;Exploring+new+tools+%E2%9C%A8;Always+learning%2C+always+growing+%F0%9F%8C%B1;Let's+build+something+amazing!+%F0%9F%9A%80" alt="Typing SVG" />
+  </a>
+</div>
+<br clear="left"/>
+
 
 
 <br/>
