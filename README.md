@@ -65,7 +65,7 @@
 <img src="https://cdn.simpleicons.org/keycloak/4D4D4D" width="42" title="Keycloak"/>&nbsp;&nbsp;
 <img src="https://cdn.simpleicons.org/livewire/FB70A9" width="42" title="Livewire"/>&nbsp;&nbsp;
 <img src="https://cdn.simpleicons.org/phpmyadmin/F89C0E" width="42" title="phpMyAdmin"/>&nbsp;&nbsp;
-<img src="https://cdn.simpleicons.org/plantuml/C8A882" width="42" title="PlantUML"/>&nbsp;&nbsp;
+<img src="[https://cdn.simpleicons.org/plantuml/C8A882](https://icon-icons.com/download-file?file=https%3A%2F%2Fimages.icon-icons.com%2F2107%2FPNG%2F512%2Ffile_type_plantuml_icon_130258.png&id=130258&pack_or_individual=pack)" width="42" title="PlantUML"/>&nbsp;&nbsp;
 
 </div>
 
