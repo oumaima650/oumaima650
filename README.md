@@ -1,19 +1,20 @@
 <div align="center">
 
-<!-- MINIMAL CLEAN HEADER with GIF inside -->
-<table width="100%" style="border:none;background:#1a1a2e;border-radius:12px;">
+<!--  HEADER : texte à gauche, GIF à droite -->
+<table border="0" cellpadding="0" cellspacing="0" width="100%" style="border:none;">
 <tr>
-<td align="center" width="70%" style="padding:30px 0 10px 0;">
+<td align="left" valign="middle" width="60%" style="padding: 20px 10px 20px 30px;">
 
-**`Hi there, I'm OUMAIMA 👋`**
+<h2>Hi there, I'm OUMAIMA 👋</h2>
+<p><em>Computer Science Engineering Student @ ENSA Tétouan</em></p>
 
-*Computer Science Engineering Student @ ENSA Tétouan*
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=16&duration=3000&pause=900&color=C8A882&center=true&vCenter=true&width=420&lines=Always+learning%2C+always+building+🚀;Exploring+software+development+💻;Let's+build+something+amazing+☕)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=15&duration=3000&pause=900&color=C8A882&center=false&vCenter=true&width=420&lines=Always+learning%2C+always+building+🚀;Exploring+software+development+💻;Let's+build+something+amazing+☕)](https://git.io/typing-svg)
 
 </td>
-<td align="center" width="30%" style="padding:10px;">
-<img src="https://media.giphy.com/media/zhYSVCirREeIZtONCI/giphy.gif" width="180"/>
+<td align="right" valign="middle" width="40%" style="padding: 10px 20px 10px 0;">
+
+<img src="https://media4.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="250"/>
+
 </td>
 </tr>
 </table>
@@ -51,7 +52,6 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" width="42" title="Tailwind CSS"/>&nbsp;&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="42" title="Bootstrap"/>&nbsp;&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" width="42" title="Laravel"/>&nbsp;&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/livewire/livewire-original.svg" width="42" title="Livewire"/>&nbsp;&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="42" title="MySQL"/>&nbsp;&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-original.svg" width="42" title="SQL Server"/>&nbsp;&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" width="42" title="Oracle"/>&nbsp;&nbsp;
@@ -61,11 +61,11 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" width="42" title="Jira"/>&nbsp;&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="42" title="Linux"/>&nbsp;&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-original.svg" width="42" title="Ubuntu"/>&nbsp;&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/phpmyadmin/phpmyadmin-original.svg" width="42" title="phpMyAdmin"/>&nbsp;&nbsp;
 <img src="https://cdn.simpleicons.org/cisco/1BA0D7" width="42" title="Cisco"/>&nbsp;&nbsp;
 <img src="https://cdn.simpleicons.org/keycloak/4D4D4D" width="42" title="Keycloak"/>&nbsp;&nbsp;
+<img src="https://cdn.simpleicons.org/livewire/FB70A9" width="42" title="Livewire"/>&nbsp;&nbsp;
+<img src="https://cdn.simpleicons.org/phpmyadmin/F89C0E" width="42" title="phpMyAdmin"/>&nbsp;&nbsp;
 <img src="https://cdn.simpleicons.org/plantuml/C8A882" width="42" title="PlantUML"/>&nbsp;&nbsp;
-<img src="https://cdn.simpleicons.org/uml/C8A882" width="42" title="UML"/>&nbsp;&nbsp;
 
 </div>
 
