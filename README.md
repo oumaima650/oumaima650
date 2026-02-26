@@ -8,9 +8,6 @@
 <!-- HERO SECTION -->
 <table border="0" cellpadding="0" cellspacing="0">
   <tr>
-    <td align="center" width="260" valign="top">
-      <img src="https://copilot.microsoft.com/th/id/BCO.d14e40b3-15e0-4366-b4c9-5e9f44303b0a.png" width="250" alt="Welcome cartoon Oumaima" />
-    </td>
     <td align="left" width="450" valign="top">
       <br/>
       <font size="10"><b>Hi there, I'm OUMAIMA </b></font>
@@ -80,7 +77,7 @@
 <div align="center">
 
 
-<p>*☕ Let's build something amazing together!*
+*☕ Let's build something amazing together!*
 
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=C8A882&height=100&section=footer&animation=fadeIn" width="100%"/>
