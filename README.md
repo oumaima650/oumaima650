@@ -107,9 +107,6 @@ I'm currently looking for a **PFE (end-of-studies) internship starting February 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:C2185B,100:FF8FB3&height=3">
 
 
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:C2185B,100:FF8FB3&height=3">
-
 ## GitHub Stats
 
 <div align="center">
