@@ -1,78 +1,114 @@
 <div align="center">
 
-<!--  HEADER : texte à gauche, GIF à droite -->
-<table border="0" cellpadding="0" cellspacing="0" width="100%" style="border:none;">
-<tr>
-<td align="left" valign="middle" width="60%" style="padding: 20px 10px 20px 30px;">
-
-<h2>Hi there, I'm OUMAIMA 👋</h2>
-<p><em>Computer Science Engineering Student @ ENSA Tétouan</em></p>
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=15&duration=3000&pause=900&color=C8A882&center=false&vCenter=true&width=420&lines=Always+learning%2C+always+building+🚀;Exploring+software+development+💻;Let's+build+something+amazing+☕)](https://git.io/typing-svg)
-
-</td>
-<td align="right" valign="middle" width="40%" style="padding: 10px 20px 10px 0;">
-
-<img src="https://media4.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="250"/>
-
-</td>
-</tr>
-</table>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:2E0410,50:C2185B,100:FF8FB3&height=200&section=header&text=Oumaima%20Ameziane&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20Engineering%20Student%20%7C%20ENSA%20Tétouan&descAlignY=58&descSize=18" />
 
 <br/>
 
-[![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/oumaima-ameziane-037473331/)
-[![GitHub](https://img.shields.io/badge/Explore_my_GitHub-black?style=for-the-badge&logo=github&logoColor=white)](https://github.com/oumaima650)
-[![Email](https://img.shields.io/badge/Email_Me-C8A882?style=for-the-badge&logo=gmail&logoColor=white)](mailto:oumaima.ameziane@etu.uae.ac.ma)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2800&pause=900&color=FF6FA3&center=true&vCenter=true&width=650&lines=5th-year+Computer+Science+Engineering+Student;Actively+seeking+a+PFE+internship+(Feb+2027);Full-Stack+%2B+AI%2FRAG+%2B+Cloud-Native+Systems;Turning+ideas+into+shipped+products)](https://git.io/typing-svg)
+
+<br/>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-FF6FA3?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/oumaima-ameziane-037473331/)
+[![GitHub](https://img.shields.io/badge/GitHub-1a1a1a?style=for-the-badge&logo=github&logoColor=FF6FA3)](https://github.com/oumaima650)
+[![Email](https://img.shields.io/badge/Email-D6336C?style=for-the-badge&logo=gmail&logoColor=white)](mailto:oumaima.ameziane@etu.uae.ac.ma)
+[![Phone](https://img.shields.io/badge/+212_621_811_707-FF8FB3?style=for-the-badge&logo=whatsapp&logoColor=white)](tel:+212621811707)
 
 </div>
 
----
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:C2185B,100:FF8FB3&height=3">
 
 ## About Me
 
-- Currently exploring various areas of software development and always eager to learn more.
-- Always ready to explore new technologies and contribute to cool projects.
-- 📬 Reach me at: [oumaima.ameziane@etu.uae.ac.ma](mailto:oumaima.ameziane@etu.uae.ac.ma)
+```yaml
+name: Oumaima Ameziane
+role: Engineering Student · Computer Science
+school: École Nationale des Sciences Appliquées, Tétouan
+looking_for: PFE Internship — available from February 2027
+focus: Full-Stack Development · AI/RAG Systems · Backend Architecture
+languages: [Arabic (native), French (DELF B2), English (B2)]
+currently: building CRMs, microservices & ML pipelines that solve real problems
+fun_fact: I once replaced a paid enterprise API with an open-source alternative — and it worked
+```
 
----
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:C2185B,100:FF8FB3&height=3">
 
-##  Languages and Tools
+## Tech Stack
 
 <div align="center">
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="42" title="C"/>&nbsp;&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="42" title="C#"/>&nbsp;&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="42" title="Java"/>&nbsp;&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="42" title="JavaScript"/>&nbsp;&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="42" title="PHP"/>&nbsp;&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" width="42" title="MATLAB"/>&nbsp;&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="42" title="HTML5"/>&nbsp;&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="42" title="CSS3"/>&nbsp;&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" width="42" title="Tailwind CSS"/>&nbsp;&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="42" title="Bootstrap"/>&nbsp;&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" width="42" title="Laravel"/>&nbsp;&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="42" title="MySQL"/>&nbsp;&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-original.svg" width="42" title="SQL Server"/>&nbsp;&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" width="42" title="Oracle"/>&nbsp;&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="42" title="Docker"/>&nbsp;&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="42" title="Git"/>&nbsp;&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="42" title="GitHub"/>&nbsp;&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" width="42" title="Jira"/>&nbsp;&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="42" title="Linux"/>&nbsp;&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-original.svg" width="42" title="Ubuntu"/>&nbsp;&nbsp;
-<img src="https://cdn.simpleicons.org/cisco/1BA0D7" width="42" title="Cisco"/>&nbsp;&nbsp;
-<img src="https://cdn.simpleicons.org/keycloak/4D4D4D" width="42" title="Keycloak"/>&nbsp;&nbsp;
-<img src="https://cdn.simpleicons.org/livewire/FB70A9" width="42" title="Livewire"/>&nbsp;&nbsp;
-<img src="https://cdn.simpleicons.org/phpmyadmin/F89C0E" width="42" title="phpMyAdmin"/>&nbsp;&nbsp;
+### Languages
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="45" title="Java"/>&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="45" title="Python"/>&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="45" title="JavaScript"/>&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="45" title="TypeScript"/>&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="45" title="PHP"/>&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" width="45" title="Dart"/>&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="45" title="C#"/>&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="45" title="HTML5"/>&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="45" title="CSS3"/>
 
+### Frameworks & UI
+<br/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="45" title="Spring Boot"/>&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="45" title="React"/>&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" width="45" title="Laravel"/>&nbsp;&nbsp;
+<img src="https://cdn.simpleicons.org/livewire/FB70A9" width="45" title="Livewire"/>&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" width="45" title="Flutter"/>&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" width="45" title="FastAPI"/>&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="45" title="Bootstrap"/>&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" width="45" title="Tailwind CSS"/>
+
+### Data & Machine Learning
+<br/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="45" title="Pandas"/>&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="45" title="NumPy"/>&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg" width="45" title="Scikit-learn"/>
+
+### Databases
+<br/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="45" title="PostgreSQL"/>&nbsp;&nbsp;
+<img src="https://cdn.simpleicons.org/postgis/FF6FA3" width="45" title="PostGIS"/>&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="45" title="MySQL"/>&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-original.svg" width="45" title="SQL Server"/>&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" width="45" title="Oracle"/>
+
+### DevOps & Tools
+<br/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="45" title="Git"/>&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="45" title="GitHub"/>&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="45" title="Docker"/>&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" width="45" title="Kubernetes"/>&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachekafka/apachekafka-original.svg" width="45" title="Kafka"/>&nbsp;&nbsp;
+<img src="https://cdn.simpleicons.org/keycloak/FF6FA3" width="45" title="Keycloak"/>&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" width="45" title="Jira"/>&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="45" title="Linux"/>&nbsp;&nbsp;
+<img src="https://cdn.simpleicons.org/cisco/FF6FA3" width="45" title="Cisco"/>
 
 </div>
 
----
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:C2185B,100:FF8FB3&height=3">
+
+
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:C2185B,100:FF8FB3&height=3">
+
+## GitHub Stats
 
 <div align="center">
 
-*☕ Let's build something amazing together!*
+<img src="https://github-readme-stats.vercel.app/api?username=oumaima650&show_icons=true&hide_border=true&theme=radical&title_color=FF6FA3&icon_color=FF8FB3&text_color=ffffff&bg_color=0D0410" width="48%"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=oumaima650&hide_border=true&theme=radical&background=0D0410&ring=FF6FA3&fire=FF6FA3&currStreakLabel=FF8FB3" width="48%"/>
+
+</div>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:C2185B,100:FF8FB3&height=3">
+
+<div align="center">
+
+### Open to PFE opportunities starting **February 2027**
+### Full-Stack · AI/RAG · Backend · Cloud-Native
+### *Let's build something amazing together — reach out!*
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:2E0410,50:C2185B,100:FF8FB3&height=100&section=footer"/>
 
 </div>
