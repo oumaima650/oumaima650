@@ -4,7 +4,7 @@
 
 <br/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2800&pause=900&color=FF6FA3&center=true&vCenter=true&width=650&lines=5th-year+Computer+Science+Engineering+Student;Actively+seeking+a+PFE+internship+(Feb+2027);Full-Stack+%2B+AI%2FRAG+%2B+Cloud-Native+Systems+%2B+DevOps;Turning+ideas+into+shipped+products)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2800&pause=900&color=FF6FA3&center=true&vCenter=true&width=650&lines=5th-year+Computer+Science+Engineering+Student;Actively+seeking+a+PFE+internship+(Feb+2027);Full-Stack+%2B+AI%2FRAG+%2B+DevOps;Turning+ideas+into+shipped+products)](https://git.io/typing-svg)
 
 <br/>
 
