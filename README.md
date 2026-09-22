@@ -29,7 +29,7 @@ I'm currently looking for a **PFE (end-of-studies) internship starting February 
 |---|---|
 | **Role** | Engineering Student, Computer Science |
 | **School** | École Nationale des Sciences Appliquées, Tétouan |
-| **Focus** | Full-Stack Development · AI/RAG Systems · Backend Architecture |
+| **Focus** | Full-Stack Development · DevOps · Backend Architecture |
 | **Languages** | Arabic (native) · French (DELF B2) · English (B2) |
 | **Availability** | PFE internship from February 2027 |
 
@@ -124,7 +124,7 @@ I'm currently looking for a **PFE (end-of-studies) internship starting February 
 <div align="center">
 
 ### Open to PFE opportunities starting **February 2027**
-### Full-Stack · AI/RAG · Backend · Cloud-Native
+### Full-Stack · DevOps · Backend · Cloud-Native
 ### *Let's build something amazing together — reach out!*
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:2E0410,50:C2185B,100:FF8FB3&height=100&section=footer"/>
