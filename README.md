@@ -112,16 +112,7 @@ I'm currently looking for a **PFE (end-of-studies) internship starting February 
 
 ## GitHub Stats
 
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=oumaima650&show_icons=true&hide_border=true&theme=radical&title_color=FF6FA3&icon_color=FF8FB3&text_color=ffffff&bg_color=0D0410" width="48%"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=oumaima650&hide_border=true&theme=radical&background=0D0410&ring=FF6FA3&fire=FF6FA3&currStreakLabel=FF8FB3" width="48%"/>
-
-</div>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:C2185B,100:FF8FB3&height=3">
-
-<div align="center">
+<div align="center"> <img src="https://github-readme-stats.vercel.app/api?username=oumaima650&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=radical&title_color=FF6FA3&icon_color=FF8FB3&text_color=ffffff&bg_color=0D0410" width="48%"/> <img src="https://github-readme-streak-stats.herokuapp.com/?user=oumaima650&hide_border=true&theme=radical&background=0D0410&ring=FF6FA3&fire=FF6FA3&currStreakLabel=FF8FB3" width="48%"/> <br/> <img src="https://github-readme-activity-graph.vercel.app/graph?username=oumaima650&theme=react-dark&bg_color=0D0410&color=FF6FA3&line=FF6FA3&point=ffffff&area=true&hide_border=true" width="97%"/> </div> <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:C2185B,100:FF8FB3&height=3"> <div align="center">
 
 ### Open to PFE opportunities starting **February 2027**
 ### Full-Stack · DevOps · Backend · Cloud-Native
