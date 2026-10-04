@@ -21,7 +21,7 @@
 
 I'm a final-year Computer Science Engineering student at ENSA Tétouan, passionate about building software that actually solves problems — from AI-powered CRMs to resilient microservices and open-source alternatives to costly enterprise tools. I like owning a project end-to-end: backend architecture, data, and the interface that ties it all together.
 
-I'm currently looking for a **PFE (end-of-studies) internship starting February 2027**, ideally on full-stack, backend, or AI/RAG-driven products.
+I'm currently looking for a **PFE (end-of-studies) internship starting January 2027**, ideally on full-stack, backend, or AI/RAG-driven products.
 
 <div align="center">
 
@@ -31,7 +31,7 @@ I'm currently looking for a **PFE (end-of-studies) internship starting February 
 | **School** | École Nationale des Sciences Appliquées, Tétouan |
 | **Focus** | Full-Stack Development · DevOps · Backend Architecture |
 | **Languages** | Arabic (native) · French (DELF B2) · English (B2) |
-| **Availability** | PFE internship from February 2027 |
+| **Availability** | PFE internship from January 2027 |
 
 </div>
 
