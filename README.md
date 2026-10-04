@@ -120,7 +120,7 @@ I'm currently looking for a **PFE (end-of-studies) internship starting January 2
 
 <div align="center">
 
-### Open to PFE opportunities starting **February 2027**
+### Open to PFE opportunities starting **January 2027**
 ### Full-Stack · DevOps · Backend · Cloud-Native
 ### *Let's build something amazing together — reach out!*
 
